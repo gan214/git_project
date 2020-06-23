@@ -6,14 +6,14 @@ public class GG {
 	private String username;
 	private String password;
 	private int sex;
-	private String hate;
+	private int shuabi;
 	
-	public GG(int id,String username,String password,int sex,String hate) {
+	public GG(int id,String username,String password,int sex,int shuabi) {
 		super();
 		this.id = id;
 		this.username = username;
 		this.password = password;
 		this.sex = sex;
-		this.hate = hate;
+		this.shuabi = shuabi;
 	}
 }
