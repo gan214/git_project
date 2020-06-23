@@ -6,7 +6,7 @@ public class GG {
 	private String username;
 	private String password;
 	private int sex;
-	private String love;
+	private String hate;
 	
 	public GG(int id,String username,String password,int sex,String love) {
 		super();
@@ -14,6 +14,6 @@ public class GG {
 		this.username = username;
 		this.password = password;
 		this.sex = sex;
-		this.love = love;
+		this.hate = hate;
 	}
 }
