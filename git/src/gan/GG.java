@@ -16,4 +16,14 @@ public class GG {
 		this.sex = sex;
 		this.shuabi = shuabi;
 	}
+	
+	private int id2;
+	
+	public int getId2() {
+		return id2 + 200;
+	}
+	public void setId2(int id2) {
+		this.id2 = id2;
+	}
+
 }
