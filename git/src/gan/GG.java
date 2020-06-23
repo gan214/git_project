@@ -6,7 +6,7 @@ public class GG {
 	private String username;
 	private String password;
 	private int sex;
-	private String love;
+	private String shuabi;
 	
 	public GG(int id,String username,String password,int sex,String love) {
 		super();
