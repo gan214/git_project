@@ -8,7 +8,7 @@ public class GG {
 	private int sex;
 	private String hate;
 	
-	public GG(int id,String username,String password,int sex,String love) {
+	public GG(int id,String username,String password,int sex,String hate) {
 		super();
 		this.id = id;
 		this.username = username;
