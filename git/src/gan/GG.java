@@ -6,9 +6,9 @@ public class GG {
 	private String username;
 	private String password;
 	private int sex;
-	private int shuabi;
+	private String shuabi;
 	
-	public GG(int id,String username,String password,int sex,int shuabi) {
+	public GG(int id,String username,String password,int sex,String shuabi) {
 		super();
 		this.id = id;
 		this.username = username;
